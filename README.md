@@ -24,6 +24,11 @@ As seguintes bibliotecas foram utilizadas:
 - Android Jetpack - Room Persistence Library
 - Android Jetpack - LiveData
 
+### Branches
+
+- master (código inicial)
+- etapa_final (código final)
+
 ### Preview
 
 ![App Review](https://thumbs.gfycat.com/SpitefulUnkemptCobra-small.gif)
