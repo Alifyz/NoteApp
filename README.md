@@ -26,7 +26,7 @@ As seguintes bibliotecas foram utilizadas:
 
 ### Preview
 
-![App Review](https://gfycat.com/SpitefulUnkemptCobra)
+![App Review](https://thumbs.gfycat.com/SpitefulUnkemptCobra-small.gif)
 
 
 License
